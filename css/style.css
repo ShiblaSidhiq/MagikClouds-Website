@@ -395,7 +395,7 @@ h6 {
 #hero {
   width: 100%;
   height: calc(100vh - 77px);
-  background: url("../img/background.jpg") top center;
+  background: url("https://media.istockphoto.com/id/1372682637/photo/vertical-green-wall-in-a-living-room-interior-3d-render.jpg?b=1&s=170667a&w=0&k=20&c=CUlefMk5zmUocV2UbttUa8J1QLwtt32NW5pyxc6nkTo=") top center;
   background-size: cover;
   position: relative;
 }
